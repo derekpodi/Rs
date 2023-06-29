@@ -13,8 +13,36 @@ use std::cmp:: Ordering;
 fn main() {
     //Input Function Name in Main, Run|Debug
     //greeting();
-    
+    //constant();
+    //integers();
+    //booleans();
+    //math();
+    //conditionals();
+    //array();
+    //tuples();
+    //strings();
+    //casting();
+    //enumerates();
+    //vectors();
+    //say_hello();
+    //get_sum(x:5, y:4);
+    //get_sum_2(5,4);
+    //get_sum_3(5,4);
+    //get_sum_gen(5,4);
+    //get_sum_gen(5.2,4.6);
+    //ownership();
+    //print_str(x: ABC);
+    //print_return_str(x: ABC);
+    //hash_map();
+    //structs();
+    //modules();
+    //errors();
+    //iterator();
+    //closures();
+    //smart_pointers();
+    //concurrency();
 }
+
 
 fn greeting() {
     println!("What is your name?");
