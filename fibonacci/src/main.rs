@@ -8,6 +8,7 @@ fn main() {
         let mut int = String::new();
 
         io::stdin().read_line(&mut int).expect("");
+        //Can add exit command
         
         let int: u32 = match int.trim().parse() {
             Ok(int) => int,
